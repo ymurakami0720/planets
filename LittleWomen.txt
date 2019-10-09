@@ -1770,6 +1770,7 @@ discarded dolls with the maternal instinct of little women.
 "Has anybody got anything to tell?  It's been such a dismal day I'm
 really dying for some amusement," said Meg, as they sat sewing together
 that evening.
+Hello this is a new change
 
 "I had a queer time with Aunt today, and, as I got the best of it, I'll
 tell you about it," began Jo, who dearly loved to tell stories.  "I was
@@ -2826,7 +2827,8 @@ long as you can, for it isn't very plenty, you know."
 
 "Oh, thank you!  It must be so nice to have pocket money!  I'll have a
 grand feast, for I haven't tasted a lime this week.  I felt delicate
-about taking any, as I couldn't return them, and I'm actually suffering
+about taking any, as I cou
+This is another change!ldn't return them, and I'm actually suffering
 for one."
 
 Next day Amy was rather late at school, but could not resist the
